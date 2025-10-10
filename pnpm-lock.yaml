@@ -41,6 +41,9 @@ importers:
       isbot:
         specifier: 5.1.30
         version: 5.1.30
+      kysely:
+        specifier: 0.28.7
+        version: 0.28.7
       pretty-cache-header:
         specifier: 1.0.0
         version: 1.0.0

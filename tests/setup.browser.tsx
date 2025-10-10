@@ -71,6 +71,10 @@ beforeEach((ctx) => {
 })
 
 // We clear all mocks after each test (optional, feel free to remove it)
+// afterEach(() => {
+// 	vi.clearAllMocks()
+// })
+
 afterEach(() => {
 	vi.clearAllMocks()
 })
